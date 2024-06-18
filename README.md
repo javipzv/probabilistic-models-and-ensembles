@@ -19,3 +19,5 @@ Ensemble Methods
 - Random Forest
 - AdaBoost
 - Gradient Boosting
+
+![boosting_test](https://github.com/javipzv/probabilistic-models-and-ensembles/assets/90279135/60510aea-4e20-4e02-8545-fd8a419305ce)
